@@ -1,0 +1,12 @@
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\Models.dll.config
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\Models.dll
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\Models.pdb
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\EntityFramework.dll
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\EntityFramework.xml
+C:\Users\TechCare\source\repos\DemoOpenID\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TechCare\source\repos\DemoOpenID\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\TechCare\source\repos\DemoOpenID\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\TechCare\source\repos\DemoOpenID\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\TechCare\source\repos\DemoOpenID\Models\obj\Debug\Models.dll
+C:\Users\TechCare\source\repos\DemoOpenID\Models\obj\Debug\Models.pdb
